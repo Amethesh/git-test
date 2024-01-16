@@ -1,0 +1,3 @@
+new text
+
+rebase with feature
