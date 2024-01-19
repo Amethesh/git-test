@@ -1,4 +1,0 @@
-New text for cherry pick
-
-
-New feature in cherry-pick
